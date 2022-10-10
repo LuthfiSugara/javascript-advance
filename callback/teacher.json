@@ -1,0 +1,23 @@
+[
+    {
+        "name": "luthfi",
+        "nrp": "123123",
+        "email": "luthfi@mail.com",
+        "major": "Programming",
+        "idLecturer": 1
+    },
+    {
+        "name": "budi",
+        "nrp": "234234",
+        "email": "budi@mail.com",
+        "major": "Geology",
+        "idLecturer": 2
+    },
+    {
+        "name": "toni",
+        "nrp": "345345",
+        "email": "toni@mail.com",
+        "major": "Engineer",
+        "idLecturer": 2
+    }
+]
